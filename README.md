@@ -12,9 +12,9 @@ Aunque durante los últimos meses/años he dejado más a un lado la programació
 
 ### ¿En qué ando metido?
 Los proyectos actuales que mantengo, con mayor o menor frecuencia:
-- 🌐 Web acerca de Pilar Bellosillo: ha sido la primera vez que he tenido la oportunidad de adquirir un dominio junto con un hosting de pago, aunque solo con lo necesario para ofrecer la página web. He aprendido a generar e instalar certificados SSL/TLS para la página web gracias a Let's Encrypt, además de gestionar los redireccionamientos y el correo web.
-- 🏙 Smart Huesca: tengo bastantes ganas de continuar los cambios que he empezado, pasando de usar Firebase a hostear un pequeño servidor con MongoDB y Express (NodeJS), con más control sobre los datos (aunque sin analíticas).
-- ❓ Otros proyectos: de vez en cuando tengo nuevas ideas, ahora estoy pensando en una nueva plataforma que espero pueda ser de utilidad en los tiempos que vivimos.
+- [🌐 Web acerca de Pilar Bellosillo](https://pilarbellosillo.es): ha sido la primera vez que he tenido la oportunidad de adquirir un dominio junto con un hosting de pago, aunque solo con lo necesario para ofrecer la página web. He aprendido a generar e instalar certificados SSL/TLS para la página web gracias a Let's Encrypt, además de gestionar los redireccionamientos y el correo web.
+- 🏙 Smart Huesca: tengo bastantes ganas de continuar los cambios que he empezado, pasando de usar Firebase a hostear un pequeño servidor con MongoDB y Express (NodeJS), con más control sobre los datos.
+- ❓ Otros proyectos: de vez en cuando tengo nuevas ideas, ahora estoy pensando en una nueva plataforma que espero pueda ser de utilidad en estos tiempos de distancias y soledad.
 
 ### ¿Qué tecnologías he ido usando?
 Las tecnologías y plataformas con las que más tiempo he pasado han sido Android (usando Java y en especial las librerías AndroidX), Web (HTML, CSS y JavaScript), NodeJS (backends con Express), Python (algunos proyectos de Machine Learning con TensorFlow y crawlers/bots) y Arduino, la primera que utilicé.
